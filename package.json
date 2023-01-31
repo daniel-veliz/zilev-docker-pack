@@ -24,6 +24,7 @@
     "henriiik.docker-linter",
     "ms-azuretools.vscode-docker",
     "p1c2u.docker-compose",
-    "redhat.vscode-yaml"
+    "redhat.vscode-yaml",
+    "jeff-hykin.better-dockerfile-syntax"
   ]
 }
